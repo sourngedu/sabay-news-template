@@ -22,40 +22,58 @@
     /* background-color: blue; */
     height: 60px;
 }
-.search-toggle{
-    line-height: 60px;
 
+nav{
+    background: #fa1939;
+    height: 60px;
+    width: 100%;
 }
-.search-toggle img{
-    width: 50px;
-    line-height: 60px;
-}
-
-.close-toggle img{
-    width: 50px;
-    line-height: 60px;
-} 
-
-.menu-bar{
-    list-style-type: none;
-    padding-inline-start: 0px;
-    
-}
-
-.menu-bar li{
-    display: inline-block;
-    text-align: center;
-    overflow: hidden;
-    background-color: #fa1939;
-}
-.menu-bar li a{
+label.logo{
     color: white;
-    text-decoration: none;
     font-size: 18px;
     line-height: 60px;
-    height: 70px;
-    padding: 18px;
+    font-weight: bold;
 }
-.menu-bar li a:hover{
-    background-color: red;
+nav ul{
+    float: left;
+    overflow: hidden;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 60px;
+    margin: 0 -2px;
+}
+nav ul li a{
+    color: white;
+    font-size: 18px;
+    padding: 18px;
+    margin: 0px;
+    text-transform: uppercase;
+    border-radius: 0;
+    text-decoration: none;
+}
+a.active,a:hover{
+    background: darkmagenta;
+    text-decoration: none;
+ }
+.checkbtn{
+    font-size: 30px;
+    color: white;
+    float: left;
+    line-height: 60px;
+    cursor: pointer;
+    display: none;
+}
+#check{
+    display: none;
+}
+
+nav .brand-name{
+    display: none;
+}
+
+section{
+    background: url(bg1.jpg) no-repeat;
+    background-size: cover;
+    height: calc(100vh - 80px);
 }

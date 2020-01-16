@@ -1,0 +1,117 @@
+@media only screen and (min-width: 992px) and (max-width: 1280px){
+    label.logo{
+      font-size: 30px;
+      padding-left: 50px;
+    }
+    nav ul li a{
+        color: white;
+        font-size: 18px;
+        padding: 18px;
+        margin: 0px;
+        text-transform: uppercase;
+        border-radius: 0;
+        text-decoration: none;
+    }
+    a.active,a:hover{
+        background: darkmagenta;
+        text-decoration: none;
+     }
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    
+    .main-ads{
+        width: 90%;
+    }
+
+    .checkbtn{
+      display: block;
+    }
+
+    ul{
+      position: fixed;
+      width: 100%;
+      height: 100vh;
+      background: #2c3e50;
+      top: 170px;
+      left: -100%;
+      text-align: left;
+      transition: all .5s;
+    }
+    nav ul li{
+      display: block;
+      margin: 50px 0 50px 20px;
+      line-height: 30px;
+    }
+    nav ul li a{
+      font-size: 20px;
+    }
+    a:hover,a.active{
+      background: none;
+      color: #0082e6;
+    }
+    #check:checked ~ ul{
+      left: 0;
+    }
+
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px){
+
+    .top-logo{
+        display: none;
+    }
+    .main-ads{
+        width: 100%;
+        height: 50px;
+        margin: auto;
+    }
+    nav .brand-name{
+        display: block;
+        font-size: 14px;
+        line-height: 60px;
+        float: right;
+        font-weight: bold;
+        letter-spacing: 2px;
+    }
+    .checkbtn{
+        display: block;
+    }
+
+    ul{
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: #2c3e50;
+        top: 60px;
+        left: -100%;
+        text-align: left;
+        transition: all .5s;
+    }
+    nav ul li{
+        display: block;
+        margin: 50px 0 50px 20px;
+        line-height: 30px;
+    }
+    nav ul li a{
+        font-size: 20px;
+    }
+      a:hover,a.active{
+        background: none;
+        color: white;
+    }
+    #check:checked ~ ul{
+        left: 0;
+    }
+  
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    .checkbtn{
+        display: block;
+      }
+  
+    
+}
