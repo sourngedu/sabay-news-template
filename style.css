@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top-logo{
+    padding: 15px;
+}
+.top-width{
+    background-color: #000000;
+}
+
+.logo-img{
+    width: 80px;
+}
+.main-ads{
+    float: right;
+    height: 80px;
+}
+
+.top-menu{
+    background-color: #fa1939;
+    /* background-color: blue; */
+    height: 60px;
+}
+.top-menu .container ul{
+    list-style-type: none;
+    padding-inline-start: 0px;
+    
+}
+
+.top-menu .container ul li{
+    display: inline-block;
+    text-align: center;
+    overflow: hidden;
+}
+.top-menu .container ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 60px;
+    height: 70px;
+    padding: 18px;
+}
+.top-menu .container ul li a:hover{
+    background-color: red;
+}
