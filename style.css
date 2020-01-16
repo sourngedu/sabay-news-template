@@ -22,18 +22,33 @@
     /* background-color: blue; */
     height: 60px;
 }
-.top-menu .container ul{
+.search-toggle{
+    line-height: 60px;
+
+}
+.search-toggle img{
+    width: 50px;
+    line-height: 60px;
+}
+
+.close-toggle img{
+    width: 50px;
+    line-height: 60px;
+} 
+
+.menu-bar{
     list-style-type: none;
     padding-inline-start: 0px;
     
 }
 
-.top-menu .container ul li{
+.menu-bar li{
     display: inline-block;
     text-align: center;
     overflow: hidden;
+    background-color: #fa1939;
 }
-.top-menu .container ul li a{
+.menu-bar li a{
     color: white;
     text-decoration: none;
     font-size: 18px;
@@ -41,6 +56,6 @@
     height: 70px;
     padding: 18px;
 }
-.top-menu .container ul li a:hover{
+.menu-bar li a:hover{
     background-color: red;
 }
