@@ -9,6 +9,7 @@
         <li><a href="#">បច្ចេកវិទ្យា</a></li>
         <li><a href="#">ជីវិតនិងសង្គម</a></li>
         <li><a href="#">កីឡា</a></li>
+        <li><a href="#">បច្ចេកវិទ្យា</a></li>
     </ul>
     <span class="brand-name">Sabay News</span>
 </nav>

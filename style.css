@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 .top-logo{
     padding: 15px;
@@ -41,7 +42,7 @@ nav ul{
 nav ul li{
     display: inline-block;
     line-height: 60px;
-    margin: 0 -2px;
+    margin: 0 -5px;
 }
 nav ul li a{
     color: white;
@@ -72,8 +73,43 @@ nav .brand-name{
     display: none;
 }
 
-section{
-    background: url(bg1.jpg) no-repeat;
-    background-size: cover;
-    height: calc(100vh - 80px);
+.slide-area{
+    margin:0px; 
+}
+.slide-box{
+    background-color: blue;
+    float: left;
+}
+
+.slide{
+    float: left;
+    padding: 0;
+    margin: 0;
+    height: 250px;
+}
+
+.slide img{
+    width: 100%;
+    height: 100%;
+}
+
+.ads-area{
+    padding: 0;
+    margin: 0;
+}
+
+.ads{
+    background-color: white;
+    float: right;
+    padding-left: 10px;
+}
+.ads img{
+    margin: 0 auto;
+    float: right;
+    max-width: 100%;
+    border: 0;
+    height: 245px;
+}
+.ads1{
+    padding-bottom: 10px;
 }

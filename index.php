@@ -15,10 +15,42 @@
         </div>
     </div>
     <div class="container-fluid top-menu">
-        <div class="container menu">
+        <div class="container">
             <?php include('nav-bar.php'); ?>
         </div>
     </div>
+        <br>
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row slide-area">
+                <div class="col-md-9">
+                    <div class="row">
+                        <div class="col-md-7 slide slide1">
+                            <img src="./img/soccer-slide1.jpg" alt="" />
+                        </div>
+                        <div class="col-md-5 slide slide2">
+                            <img src="./img/island-slide3.jpg" alt="" />
+                        </div>
+                        <div class="col-md-7 slide slide3">
+                            <img src="./img/soccer-slide1.jpg" alt="" />
+                        </div>
+                        <div class="col-md-5 slide slide4">
+                            <img src="./img/island-slide3.jpg" alt="" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 ads-area">
+                    <div class="ads ads1">
+                        <img src="./img/slide-ads1.jpg" alt="">
+                    </div>
+                    <div class="ads ads2">
+                        <img src="./img/slide-ads2.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
 </body>
     
 </html>
