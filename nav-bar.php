@@ -1,15 +1,22 @@
-<nav>
-    <input type="checkbox" id="check">
-    <label for="check" class="checkbtn">
-        <i class="fas fa-bars"></i>
-    </label>
-    <ul class="menu-bar">
-         <li><a class="active" href="#"><i class="fa fa-home"></i>&nbsp; ទំព័រដើម</a></li>
-        <li><a href="#">កម្សាន្ត</a></li>
-        <li><a href="#">បច្ចេកវិទ្យា</a></li>
-        <li><a href="#">ជីវិតនិងសង្គម</a></li>
-        <li><a href="#">កីឡា</a></li>
-        <li><a href="#">បច្ចេកវិទ្យា</a></li>
+<nav class="navbar navbar-expand-md">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="#"><i class="fa fa-home">&nbsp;</i>ទំព័រដើម</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">កម្សាន្ត</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">បច្ចេកវិទ្យា</a>
+      </li>    
+      <li class="nav-item">
+        <a class="nav-link" href="#">ជីវិត និង​សង្គម</a>
+      </li> 
     </ul>
-    <span class="brand-name">Sabay News</span>
+  </div>  
 </nav>
+    

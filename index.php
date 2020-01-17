@@ -40,14 +40,14 @@
                             </div>
                         </div>
                         <div class="col-md-7 slide slide3">
-                            <img src="./img/soccer-slide1.jpg" alt="" />
+                            <img src="./img/war-slide2.jpg" alt="" />
                             <div class="slide-title">                                       
                                 <h4>មក​ដឹង​ប្រវត្តិ​ Red War មុន​ Liverpool និង​ Man Utd ប៉ះ​គ្នា​ថ្ងៃ​អាទិត្យ​នេះ​</h4>
                                 <span class="slide-discription">មូលហេតុដាច់ដោយឡែកមួយ</span>            
                             </div>
                         </div>
                         <div class="col-md-5 slide slide4">
-                            <img src="./img/island-slide3.jpg" alt="" />
+                            <img src="./img/slide-ads2.jpg" alt="" />
                             <div class="slide-title">                                       
                                 <h4>មក​ដឹង​ប្រវត្តិ​ Red War មុន​ Liverpool និង​ Man Utd ប៉ះ​គ្នា​ថ្ងៃ​អាទិត្យ​នេះ​</h4>
                                 <span class="slide-discription">មូលហេតុដាច់ដោយឡែកមួយ</span>            

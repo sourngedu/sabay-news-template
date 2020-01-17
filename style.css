@@ -1,7 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
 }
 .top-logo{
     padding: 15px;
@@ -20,58 +19,62 @@
 
 .top-menu{
     background-color: #fa1939;
-    /* background-color: blue; */
-    height: 60px;
+    /* height: 60px; */
 }
-
+/* .navbar-collapse{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
 nav{
     background: #fa1939;
-    height: 60px;
-    width: 100%;
-}
-label.logo{
     color: white;
-    font-size: 18px;
-    line-height: 60px;
-    font-weight: bold;
-}
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 nav ul{
     float: left;
-}
-nav ul li{
-    display: inline-block;
-    line-height: 60px;
-    margin: 0 -3px;
 }
 nav ul li a{
     color: white;
     font-size: 18px;
     padding: 20px;
-    margin: 0px;
-    text-transform: uppercase;
     border-radius: 0;
+    text-decoration: none;
+}
+
+nav ul li a.active,nav ul li a:hover{
+    background: blue;
+    text-decoration: none;
+ } */
+
+ nav{
+    background: #fa1939;
+    height: auto;
+    width: 100%;
+
+    padding: 0 !important;
+}
+nav ul{
+    float: left;
+    overflow: hidden;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 45px;
+}
+nav ul li a{
+    color: white;
+    font-size: 18px;
+    margin: 0px;
     text-decoration: none;
 }
 a.active,a:hover{
     background: darkmagenta;
     text-decoration: none;
  }
-.checkbtn{
-    font-size: 30px;
-    color: white;
-    float: left;
-    line-height: 60px;
-    cursor: pointer;
-    display: none;
-}
-#check{
-    display: none;
-}
 
-nav .brand-name{
-    display: none;
-}
 
 .slide-area{
     margin:0px; 
