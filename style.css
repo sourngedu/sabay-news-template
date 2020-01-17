@@ -35,19 +35,19 @@ label.logo{
     line-height: 60px;
     font-weight: bold;
 }
+}
 nav ul{
     float: left;
-    overflow: hidden;
 }
 nav ul li{
     display: inline-block;
     line-height: 60px;
-    margin: 0 -5px;
+    margin: 0 -3px;
 }
 nav ul li a{
     color: white;
     font-size: 18px;
-    padding: 18px;
+    padding: 20px;
     margin: 0px;
     text-transform: uppercase;
     border-radius: 0;

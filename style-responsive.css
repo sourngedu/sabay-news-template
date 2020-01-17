@@ -3,6 +3,9 @@
       font-size: 30px;
       padding-left: 50px;
     }
+    nav ul{
+      z-index: 99;
+    }
     nav ul li a{
         color: white;
         font-size: 18px;
@@ -38,6 +41,7 @@
       left: -100%;
       text-align: left;
       transition: all .5s;
+      z-index: 999;
     }
     nav ul li{
       display: block;
@@ -89,6 +93,7 @@
         left: -100%;
         text-align: left;
         transition: all .5s;
+        z-index: 999;
     }
     nav ul li{
         display: block;
