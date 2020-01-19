@@ -5,7 +5,7 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#"><i class="fa fa-home">&nbsp;</i>ទំព័រដើម</a>
+        <a class="nav-link active" href="#"><i class="fa fa-home fa-lg"></i></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">កម្សាន្ត</a>
