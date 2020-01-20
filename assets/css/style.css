@@ -207,11 +207,22 @@ nav ul li a{
 
 .cate-entertainment{
     background-color: #FA5480;
+    width: 120px;
 }
 .cate-sport{
     background-color: #4390F8;
+    width: 120px;
 }
 
+.cate-life{
+    background-color: #F9A62B;
+    width: 170px;
+}
+
+.cate-technology{
+    background-color: #38C378;
+    width: 140px;
+}
 .cate-video{
     background-color: #F2272F;
 }
@@ -220,6 +231,25 @@ nav ul li a{
     width: 100%;
     background-color: black;
     height: 250px;
+}
+
+
+.vl-entertainment{
+    background-color: #FA5480;
+}
+.vl-sport{
+    background-color: #4390F8;
+}
+
+.vl-life{
+    background-color: #F9A62B;
+}
+
+.vl-technology{
+    background-color: #38C378;
+}
+.vl-video{
+    background-color: #F2272F;
 }
 
 .cate-title{
