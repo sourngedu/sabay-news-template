@@ -48,6 +48,7 @@
     width: 100%;
     padding: 0 !important;
 }
+
 nav ul{
     float: left;
     overflow: hidden;
@@ -64,7 +65,8 @@ nav ul li a{
     text-decoration: none;
     font-family: 'Bayon', cursive;
 }
-a.active,a:hover{
+.nav-link.active,
+.nav-link:hover{
     background: darkmagenta;
     text-decoration: none;
  }
@@ -131,7 +133,6 @@ a.active,a:hover{
     /* https://bennettfeely.com/clippy/ */
 }
 
-
 .slide-discription{
     position: absolute;
     bottom: 30px;
@@ -169,4 +170,18 @@ a.active,a:hover{
 }
 .cat-sport{
     background-color: #4390F8;
+}
+/* Footer Area */
+
+.footer-area{
+    background-color: #000000;
+}
+#footer{
+    margin-top: 20px; 
+    padding: 15px 0 15px 0;
+    color: white;
+}
+
+.copyright{
+    padding: 0;
 }

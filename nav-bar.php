@@ -15,7 +15,10 @@
       </li>    
       <li class="nav-item">
         <a class="nav-link" href="#">ជីវិត និង​សង្គម</a>
-      </li> 
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">កីឡា</a>
+      </li>
     </ul>
   </div>  
 </nav>
