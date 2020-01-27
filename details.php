@@ -1,5 +1,5 @@
-    <?php include('header.php'); ?>
-    <title>Home - Sabay News</title>
+<?php include('header.php'); ?>
+    <title>Details - Sabay News</title>
 </head>
 <body>
     <div class="container-fluid top-width">
@@ -13,15 +13,15 @@
         <br>
     <div class="container-fluid">
         <div class="container">
-            <?php include('main.php'); ?>
+            <h1>Page Details</h1>
+            <br>
+
         </div>
     </div>
     <br>
     <div class="container-fluid footer">
             <?php include('footer.php'); ?>
     </div>
-<br>
-        
     
 </body>
 
