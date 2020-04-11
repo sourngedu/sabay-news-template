@@ -1,7 +1,8 @@
-// $(document).ready(function(){
-//     $(".slide").hover(function(){
-//     //   $(".slide-title-discription").css("display","block");
-//       }, function(){
-//       $(this).css("background-color", "pink");
-//     });
-//   });
+
+
+$(document).ready(function(){
+    //alert('hello World');
+    $(document).on('click', '.nav-item .nav-link',function(){
+        // alert($(this).attr('class') + ' ' +  $(this).html());
+    });
+});

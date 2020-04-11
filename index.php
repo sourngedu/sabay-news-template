@@ -18,7 +18,7 @@
     </div>
     <br>
     <div class="container-fluid footer">
-            <?php include('footer.php'); ?>
+            <?php include('footer2.php'); ?>
     </div>
 <br>
         
