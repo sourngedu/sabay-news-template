@@ -11,5 +11,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     <script src="script.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- <link href="http://news.sabay.com.kh/build/css/app-904c3fcde8.css" rel="stylesheet" type="text/css" /> -->
+    <link href="//cdn.sabay.com/cdn/media.sabay.com/css/footer.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="./style.css" />
     <link rel="stylesheet" type="text/css" href="./style-responsive.css" />

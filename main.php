@@ -7,7 +7,8 @@
                 <img src="./img/soccer-slide1.jpg" alt=""/>
                 <div class="slide-hover"></div>
                 <div class="slide-discription">
-                    <h4 class="main-slide-title">មក​ដឹង​ប្រវត្តិ​ Red War មុន​ Liverpool និង​ Man Utd ប៉ះ​គ្នា​ថ្ងៃ​អាទិត្យ​នេះ​</h4>
+                    <a href="detail.php" class="main-slide-title">មក​ដឹង​ប្រវត្តិ​ Red War មុន​ Liverpool និង​ Man Utd ប៉ះ​គ្នា​ថ្ងៃ​អាទិត្យ​នេះ​</a>
+                    <!-- <a href="#"> Detail</a> -->
                     <span class="slide-title-discription">មូលហេតុដាច់ដោយឡែកមួយ</span>
                 </div>
                 <div class="slide-upload-date">
@@ -19,7 +20,7 @@
                 <img src="./img/island-slide3.jpg" alt=""/>
                 <div class="slide-hover"></div>
                 <div class="slide-discription">
-                    <h4 class="main-slide-title">មក​ដឹង​ប្រវត្តិ​ Red War មុន​ Liverpool និង​ Man Utd ប៉ះ​គ្នា​ថ្ងៃ​អាទិត្យ​នេះ​</h4>
+                    <a href="detail.php" class="main-slide-title">មក​ដឹង​ប្រវត្តិ​ Red War មុន​ Liverpool និង​ Man Utd ប៉ះ​គ្នា​ថ្ងៃ​អាទិត្យ​នេះ​</a>
                     <span class="slide-title-discription">មូលហេតុដាច់ដោយឡែកមួយ</span>
                 </div>
                 <div class="slide-upload-date">
@@ -31,7 +32,7 @@
                 <img src="./img/war-slide2.jpg" alt=""/>
                 <div class="slide-hover"></div>
                 <div class="slide-discription">
-                    <h4 class="main-slide-title">មក​ដឹង​ប្រវត្តិ​ Red War មុន​ Liverpool និង​ Man Utd ប៉ះ​គ្នា​ថ្ងៃ​អាទិត្យ​នេះ​</h4>
+                    <a href="detail.php" class="main-slide-title">មក​ដឹង​ប្រវត្តិ​ Red War មុន​ Liverpool និង​ Man Utd ប៉ះ​គ្នា​ថ្ងៃ​អាទិត្យ​នេះ​</a>
                     <span class="slide-title-discription">មូលហេតុដាច់ដោយឡែកមួយ</span>
                 </div>
                 <div class="slide-upload-date">
@@ -43,7 +44,7 @@
                 <img src="./img/slide-ads2.jpg" alt=""/>
                 <div class="slide-hover"></div>
                 <div class="slide-discription">
-                    <h4 class="main-slide-title">មក​ដឹង​ប្រវត្តិ​ Red War មុន​ Liverpool និង​ Man Utd ប៉ះ​គ្នា​ថ្ងៃ​អាទិត្យ​នេះ​</h4>
+                    <a href="detail.php" class="main-slide-title">មក​ដឹង​ប្រវត្តិ​ Red War មុន​ Liverpool និង​ Man Utd ប៉ះ​គ្នា​ថ្ងៃ​អាទិត្យ​នេះ​</a>
                     <span class="slide-title-discription">មូលហេតុដាច់ដោយឡែកមួយ</span>
                 </div>
                 <div class="slide-upload-date">
